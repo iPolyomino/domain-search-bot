@@ -1,13 +1,13 @@
 #!/bin/sh
 
-echo "" > result.txt
-echo "" > remaining.txt
+: > result.txt
+: > remaining.txt
 
 cat ./words.txt \
   | xargs -I$ dig @8.8.8.8 $.com \
   | tee -a result.txt \
   | grep -B 3 'verisign-grs' \
-  | grep -E "^;[a-z]{5}" \
+  | grep -oE "[a-z]{5}\.com" \
   | tee -a remaining.txt &
 
 
