@@ -1,6 +1,9 @@
+
 ;aaaua.com.			IN	A
 ;aaahi.com.			IN	A
 ;aaavu.com.			IN	A
+;aaazu.com.			IN	A
+;aaabu.com.			IN	A
 ;aaiau.com.			IN	A
 ;aaiae.com.			IN	A
 ;aaiui.com.			IN	A
@@ -12,6 +15,7 @@
 ;aaiha.com.			IN	A
 ;aaifu.com.			IN	A
 ;aaiho.com.			IN	A
+;aaiwe.com.			IN	A
 ;aaizo.com.			IN	A
 ;aaibe.com.			IN	A
 ;aaipu.com.			IN	A
@@ -153,7 +157,6 @@
 ;aafuu.com.			IN	A
 ;aafue.com.			IN	A
 ;aafuo.com.			IN	A
-;aahei.com.			IN	A
 ;aaheu.com.			IN	A
 ;aahoe.com.			IN	A
 ;aamui.com.			IN	A
@@ -170,6 +173,7 @@
 ;aawau.com.			IN	A
 ;aawae.com.			IN	A
 ;aawao.com.			IN	A
+;aawie.com.			IN	A
 ;aawio.com.			IN	A
 ;aawua.com.			IN	A
 ;aawui.com.			IN	A
@@ -261,18 +265,19 @@
 ;aiati.com.			IN	A
 ;aiahu.com.			IN	A
 ;aiaho.com.			IN	A
-;aiawu.com.			IN	A
 ;aiavu.com.			IN	A
 ;aiazi.com.			IN	A
 ;aiazu.com.			IN	A
 ;aiaze.com.			IN	A
 ;aiabi.com.			IN	A
 ;aiapu.com.			IN	A
+;aiafi.com.			IN	A
 ;aiajo.com.			IN	A
 ;aiiaa.com.			IN	A
 ;aiiuo.com.			IN	A
 ;aiiei.com.			IN	A
 ;aiieu.com.			IN	A
+;aiioa.com.			IN	A
 ;aiifu.com.			IN	A
 ;aiiwi.com.			IN	A
 ;aiigi.com.			IN	A
@@ -280,7 +285,6 @@
 ;aiifi.com.			IN	A
 ;aiije.com.			IN	A
 ;aiuau.com.			IN	A
-;aiuao.com.			IN	A
 ;aiuui.com.			IN	A
 ;aiuue.com.			IN	A
 ;aiuuo.com.			IN	A
@@ -334,7 +338,6 @@
 ;aihiu.com.			IN	A
 ;aihoi.com.			IN	A
 ;aimoi.com.			IN	A
-;aiyua.com.			IN	A
 ;aiyoo.com.			IN	A
 ;aiwiu.com.			IN	A
 ;aiwui.com.			IN	A
@@ -1254,7 +1257,6 @@
 ;aoate.com.			IN	A
 ;aoanu.com.			IN	A
 ;aoane.com.			IN	A
-;aoano.com.			IN	A
 ;aoahi.com.			IN	A
 ;aoahu.com.			IN	A
 ;aoahe.com.			IN	A
@@ -1388,7 +1390,6 @@
 ;aoeji.com.			IN	A
 ;aoezu.com.			IN	A
 ;aoezo.com.			IN	A
-;aoeda.com.			IN	A
 ;aoebu.com.			IN	A
 ;aoebe.com.			IN	A
 ;aoepi.com.			IN	A
@@ -1428,6 +1429,7 @@
 ;aohii.com.			IN	A
 ;aohue.com.			IN	A
 ;aofua.com.			IN	A
+;aofui.com.			IN	A
 ;aoheu.com.			IN	A
 ;aohoi.com.			IN	A
 ;aomau.com.			IN	A
@@ -1451,7 +1453,6 @@
 ;aogeu.com.			IN	A
 ;aozau.com.			IN	A
 ;aozae.com.			IN	A
-;aozia.com.			IN	A
 ;aoziu.com.			IN	A
 ;aojii.com.			IN	A
 ;aozua.com.			IN	A
@@ -1468,7 +1469,6 @@
 ;aobeu.com.			IN	A
 ;aopae.com.			IN	A
 ;aopii.com.			IN	A
-;aopiu.com.			IN	A
 ;aopua.com.			IN	A
 ;aopuu.com.			IN	A
 ;aopue.com.			IN	A
@@ -1743,7 +1743,6 @@
 ;anooi.com.			IN	A
 ;anone.com.			IN	A
 ;anowu.com.			IN	A
-;anoze.com.			IN	A
 ;anodu.com.			IN	A
 ;anofe.com.			IN	A
 ;ahaau.com.			IN	A
@@ -1759,6 +1758,7 @@
 ;ahavu.com.			IN	A
 ;ahagu.com.			IN	A
 ;ahapu.com.			IN	A
+;ahafi.com.			IN	A
 ;ahaju.com.			IN	A
 ;ahaje.com.			IN	A
 ;ahajo.com.			IN	A
@@ -2280,6 +2280,7 @@
 ;azaae.com.			IN	A
 ;azaao.com.			IN	A
 ;azaiu.com.			IN	A
+;azaui.com.			IN	A
 ;azauu.com.			IN	A
 ;azaue.com.			IN	A
 ;azauo.com.			IN	A
@@ -2322,7 +2323,6 @@
 ;ajiho.com.			IN	A
 ;ajima.com.			IN	A
 ;ajiwi.com.			IN	A
-;ajivu.com.			IN	A
 ;ajife.com.			IN	A
 ;ajije.com.			IN	A
 ;azuau.com.			IN	A
@@ -2393,6 +2393,7 @@
 ;adauo.com.			IN	A
 ;adaei.com.			IN	A
 ;adaee.com.			IN	A
+;adafe.com.			IN	A
 ;adiiu.com.			IN	A
 ;adiuu.com.			IN	A
 ;adiue.com.			IN	A
@@ -2410,7 +2411,6 @@
 ;aduoa.com.			IN	A
 ;aduou.com.			IN	A
 ;aduoe.com.			IN	A
-;aduhu.com.			IN	A
 ;aduwe.com.			IN	A
 ;aduju.com.			IN	A
 ;aduje.com.			IN	A
@@ -2495,6 +2495,7 @@
 ;apiuo.com.			IN	A
 ;apioe.com.			IN	A
 ;apika.com.			IN	A
+;apiku.com.			IN	A
 ;apite.com.			IN	A
 ;apuaa.com.			IN	A
 ;apuao.com.			IN	A
@@ -2526,7 +2527,6 @@
 ;apunn.com.			IN	A
 ;apuvu.com.			IN	A
 ;apugu.com.			IN	A
-;apubi.com.			IN	A
 ;apubu.com.			IN	A
 ;apube.com.			IN	A
 ;apupe.com.			IN	A
@@ -2863,6 +2863,7 @@
 ;ajeuo.com.			IN	A
 ;ajeei.com.			IN	A
 ;ajeeu.com.			IN	A
+;ajeeo.com.			IN	A
 ;ajeoa.com.			IN	A
 ;ajeoi.com.			IN	A
 ;ajeou.com.			IN	A
@@ -2870,6 +2871,7 @@
 ;ajeke.com.			IN	A
 ;ajesu.com.			IN	A
 ;ajetu.com.			IN	A
+;ajete.com.			IN	A
 ;ajenu.com.			IN	A
 ;ajehi.com.			IN	A
 ;ajehu.com.			IN	A
@@ -2928,7 +2930,6 @@
 ;adyui.com.			IN	A
 ;adyuo.com.			IN	A
 ;adyoa.com.			IN	A
-;adyoi.com.			IN	A
 ;adyoe.com.			IN	A
 ;abyae.com.			IN	A
 ;abyii.com.			IN	A
@@ -3399,11 +3400,13 @@
 ;iiiau.com.			IN	A
 ;iiiua.com.			IN	A
 ;iiiue.com.			IN	A
+;iiiuo.com.			IN	A
 ;iiiea.com.			IN	A
 ;iiieu.com.			IN	A
 ;iiise.com.			IN	A
 ;iiihe.com.			IN	A
 ;iiiwu.com.			IN	A
+;iiinn.com.			IN	A
 ;iiivu.com.			IN	A
 ;iiigu.com.			IN	A
 ;iiiza.com.			IN	A
@@ -5205,6 +5208,7 @@
 ;ioewa.com.			IN	A
 ;ioewi.com.			IN	A
 ;ioewe.com.			IN	A
+;ioewo.com.			IN	A
 ;ioevu.com.			IN	A
 ;ioega.com.			IN	A
 ;ioegi.com.			IN	A
@@ -5571,6 +5575,7 @@
 ;isevu.com.			IN	A
 ;isezo.com.			IN	A
 ;isoau.com.			IN	A
+;isoae.com.			IN	A
 ;isoua.com.			IN	A
 ;isoei.com.			IN	A
 ;isooe.com.			IN	A
@@ -5868,7 +5873,6 @@
 ;ihooa.com.			IN	A
 ;ihoou.com.			IN	A
 ;ihoke.com.			IN	A
-;ihoha.com.			IN	A
 ;ihohe.com.			IN	A
 ;ihoyu.com.			IN	A
 ;ihowu.com.			IN	A
@@ -5878,6 +5882,7 @@
 ;ihobu.com.			IN	A
 ;ihofa.com.			IN	A
 ;ihofi.com.			IN	A
+;ihoja.com.			IN	A
 ;imaae.com.			IN	A
 ;imaao.com.			IN	A
 ;imauo.com.			IN	A
@@ -6053,6 +6058,7 @@
 ;iwihe.com.			IN	A
 ;iwiho.com.			IN	A
 ;iwimu.com.			IN	A
+;iwiya.com.			IN	A
 ;iwiyu.com.			IN	A
 ;iwiyo.com.			IN	A
 ;iwivu.com.			IN	A
@@ -6246,7 +6252,7 @@
 ;igaoi.com.			IN	A
 ;igaou.com.			IN	A
 ;igaoe.com.			IN	A
-;igahi.com.			IN	A
+;igahu.com.			IN	A
 ;igafu.com.			IN	A
 ;igahe.com.			IN	A
 ;igayu.com.			IN	A
@@ -6298,6 +6304,7 @@
 ;iguie.com.			IN	A
 ;iguio.com.			IN	A
 ;iguua.com.			IN	A
+;iguui.com.			IN	A
 ;iguuo.com.			IN	A
 ;iguea.com.			IN	A
 ;iguei.com.			IN	A
@@ -6361,6 +6368,7 @@
 ;igoii.com.			IN	A
 ;igoei.com.			IN	A
 ;igooi.com.			IN	A
+;igoma.com.			IN	A
 ;igowe.com.			IN	A
 ;igovu.com.			IN	A
 ;igode.com.			IN	A
@@ -6472,6 +6480,7 @@
 ;izube.com.			IN	A
 ;izupi.com.			IN	A
 ;izupe.com.			IN	A
+;izufa.com.			IN	A
 ;izufi.com.			IN	A
 ;izuje.com.			IN	A
 ;izujo.com.			IN	A
@@ -6561,7 +6570,6 @@
 ;idipe.com.			IN	A
 ;idife.com.			IN	A
 ;idije.com.			IN	A
-;idijo.com.			IN	A
 ;iduau.com.			IN	A
 ;iduiu.com.			IN	A
 ;iduie.com.			IN	A
@@ -6702,6 +6710,7 @@
 ;ipafo.com.			IN	A
 ;ipajo.com.			IN	A
 ;ipiaa.com.			IN	A
+;ipiau.com.			IN	A
 ;ipiae.com.			IN	A
 ;ipiia.com.			IN	A
 ;ipiiu.com.			IN	A
@@ -6750,7 +6759,6 @@
 ;ipuhe.com.			IN	A
 ;ipuho.com.			IN	A
 ;ipuyo.com.			IN	A
-;ipuwa.com.			IN	A
 ;ipuwi.com.			IN	A
 ;ipuwu.com.			IN	A
 ;ipuwe.com.			IN	A
@@ -6790,6 +6798,7 @@
 ;ipezo.com.			IN	A
 ;ipebu.com.			IN	A
 ;ipefo.com.			IN	A
+;ipeja.com.			IN	A
 ;ipeju.com.			IN	A
 ;ipeje.com.			IN	A
 ;ipejo.com.			IN	A
@@ -6881,7 +6890,6 @@
 ;imyaa.com.			IN	A
 ;imyau.com.			IN	A
 ;imyae.com.			IN	A
-;imyii.com.			IN	A
 ;imyiu.com.			IN	A
 ;imyie.com.			IN	A
 ;imyio.com.			IN	A
@@ -7163,6 +7171,7 @@
 ;ijugi.com.			IN	A
 ;ijuza.com.			IN	A
 ;ijuzo.com.			IN	A
+;ijupa.com.			IN	A
 ;ijupo.com.			IN	A
 ;ijufi.com.			IN	A
 ;ijufe.com.			IN	A
@@ -7244,6 +7253,7 @@
 ;ijooi.com.			IN	A
 ;ijoki.com.			IN	A
 ;ijosu.com.			IN	A
+;ijotu.com.			IN	A
 ;ijohi.com.			IN	A
 ;ijohu.com.			IN	A
 ;ijofu.com.			IN	A
@@ -7742,7 +7752,6 @@
 ;uasye.com.			IN	A
 ;uasyo.com.			IN	A
 ;uatya.com.			IN	A
-;uacha.com.			IN	A
 ;uatyi.com.			IN	A
 ;uachu.com.			IN	A
 ;uatye.com.			IN	A
@@ -8091,7 +8100,6 @@
 ;uiezu.com.			IN	A
 ;uieze.com.			IN	A
 ;uiezo.com.			IN	A
-;uieda.com.			IN	A
 ;uiede.com.			IN	A
 ;uiedo.com.			IN	A
 ;uieba.com.			IN	A
@@ -10593,7 +10601,6 @@
 ;utioo.com.			IN	A
 ;utisu.com.			IN	A
 ;utihu.com.			IN	A
-;utifu.com.			IN	A
 ;utihe.com.			IN	A
 ;utiho.com.			IN	A
 ;utiyo.com.			IN	A
@@ -10746,7 +10753,6 @@
 ;unawu.com.			IN	A
 ;unawo.com.			IN	A
 ;unapa.com.			IN	A
-;unieo.com.			IN	A
 ;unino.com.			IN	A
 ;unuaa.com.			IN	A
 ;unuai.com.			IN	A
@@ -10948,6 +10954,7 @@
 ;uhidi.com.			IN	A
 ;uhidu.com.			IN	A
 ;uhido.com.			IN	A
+;uhibu.com.			IN	A
 ;uhibe.com.			IN	A
 ;uhipa.com.			IN	A
 ;uhipu.com.			IN	A
@@ -11570,7 +11577,6 @@
 ;uwaoo.com.			IN	A
 ;uwasi.com.			IN	A
 ;uwasu.com.			IN	A
-;uwaso.com.			IN	A
 ;uwane.com.			IN	A
 ;uwaha.com.			IN	A
 ;uwahi.com.			IN	A
@@ -11617,7 +11623,6 @@
 ;uwioe.com.			IN	A
 ;uwioo.com.			IN	A
 ;uwiku.com.			IN	A
-;uwike.com.			IN	A
 ;uwiko.com.			IN	A
 ;uwisi.com.			IN	A
 ;uwisu.com.			IN	A
@@ -11718,6 +11723,7 @@
 ;uwupu.com.			IN	A
 ;uwupe.com.			IN	A
 ;uwupo.com.			IN	A
+;uwufa.com.			IN	A
 ;uwufi.com.			IN	A
 ;uwufe.com.			IN	A
 ;uwufo.com.			IN	A
@@ -11852,6 +11858,7 @@
 ;uwojo.com.			IN	A
 ;unnau.com.			IN	A
 ;unnua.com.			IN	A
+;unneu.com.			IN	A
 ;unnoa.com.			IN	A
 ;unnoi.com.			IN	A
 ;unnku.com.			IN	A
@@ -12000,6 +12007,7 @@
 ;ugapo.com.			IN	A
 ;ugafa.com.			IN	A
 ;ugafo.com.			IN	A
+;ugaja.com.			IN	A
 ;ugaju.com.			IN	A
 ;ugaje.com.			IN	A
 ;ugajo.com.			IN	A
@@ -12298,6 +12306,7 @@
 ;uzioi.com.			IN	A
 ;uziou.com.			IN	A
 ;uzioe.com.			IN	A
+;uzioo.com.			IN	A
 ;uzisa.com.			IN	A
 ;uzisu.com.			IN	A
 ;uziso.com.			IN	A
@@ -12565,10 +12574,10 @@
 ;udahe.com.			IN	A
 ;udawe.com.			IN	A
 ;udawo.com.			IN	A
+;udagi.com.			IN	A
 ;udaji.com.			IN	A
 ;udafi.com.			IN	A
 ;udafe.com.			IN	A
-;udafo.com.			IN	A
 ;udajo.com.			IN	A
 ;udiaa.com.			IN	A
 ;udiau.com.			IN	A
@@ -12780,6 +12789,7 @@
 ;ubipo.com.			IN	A
 ;ubifo.com.			IN	A
 ;ubija.com.			IN	A
+;ubije.com.			IN	A
 ;ubijo.com.			IN	A
 ;ubuai.com.			IN	A
 ;ubuau.com.			IN	A
@@ -12894,7 +12904,6 @@
 ;ubobe.com.			IN	A
 ;ubopu.com.			IN	A
 ;ubope.com.			IN	A
-;ubofi.com.			IN	A
 ;ubofe.com.			IN	A
 ;ubofo.com.			IN	A
 ;uboju.com.			IN	A
@@ -13413,7 +13422,6 @@
 ;ufepo.com.			IN	A
 ;ufefi.com.			IN	A
 ;ufefo.com.			IN	A
-;ufeja.com.			IN	A
 ;ufeju.com.			IN	A
 ;ufeje.com.			IN	A
 ;ufejo.com.			IN	A
@@ -13727,7 +13735,6 @@
 ;ujoou.com.			IN	A
 ;ujooe.com.			IN	A
 ;ujoka.com.			IN	A
-;ujoko.com.			IN	A
 ;ujosa.com.			IN	A
 ;ujosi.com.			IN	A
 ;ujosu.com.			IN	A
@@ -14500,7 +14507,6 @@
 ;eieho.com.			IN	A
 ;eiemi.com.			IN	A
 ;eiemu.com.			IN	A
-;eieme.com.			IN	A
 ;eiemo.com.			IN	A
 ;eieya.com.			IN	A
 ;eieyu.com.			IN	A
@@ -14550,6 +14556,7 @@
 ;eioou.com.			IN	A
 ;eioka.com.			IN	A
 ;eioki.com.			IN	A
+;eioke.com.			IN	A
 ;eioko.com.			IN	A
 ;eiosa.com.			IN	A
 ;eiosu.com.			IN	A
@@ -15617,7 +15624,6 @@
 ;eeobi.com.			IN	A
 ;eeobu.com.			IN	A
 ;eeobo.com.			IN	A
-;eeopa.com.			IN	A
 ;eeopi.com.			IN	A
 ;eeopu.com.			IN	A
 ;eeope.com.			IN	A
@@ -15650,7 +15656,6 @@
 ;eeteo.com.			IN	A
 ;eetoa.com.			IN	A
 ;eetoi.com.			IN	A
-;eetou.com.			IN	A
 ;eetoe.com.			IN	A
 ;eenua.com.			IN	A
 ;eenuu.com.			IN	A
@@ -15722,7 +15727,6 @@
 ;eeziu.com.			IN	A
 ;eejio.com.			IN	A
 ;eezua.com.			IN	A
-;eezuu.com.			IN	A
 ;eezue.com.			IN	A
 ;eezeu.com.			IN	A
 ;eezoa.com.			IN	A
@@ -15802,6 +15806,7 @@
 ;eejuo.com.			IN	A
 ;eejea.com.			IN	A
 ;eejeu.com.			IN	A
+;eejee.com.			IN	A
 ;eejeo.com.			IN	A
 ;eejoa.com.			IN	A
 ;eejoi.com.			IN	A
@@ -16526,7 +16531,6 @@
 ;ekewu.com.			IN	A
 ;ekenn.com.			IN	A
 ;ekepe.com.			IN	A
-;ekefe.com.			IN	A
 ;ekejo.com.			IN	A
 ;ekoau.com.			IN	A
 ;ekoae.com.			IN	A
@@ -16682,7 +16686,6 @@
 ;etuou.com.			IN	A
 ;etuhi.com.			IN	A
 ;etufu.com.			IN	A
-;etuyu.com.			IN	A
 ;etuwi.com.			IN	A
 ;etuwe.com.			IN	A
 ;etuwo.com.			IN	A
@@ -16749,7 +16752,6 @@
 ;eniio.com.			IN	A
 ;eniui.com.			IN	A
 ;eniuu.com.			IN	A
-;enieu.com.			IN	A
 ;enisu.com.			IN	A
 ;enihi.com.			IN	A
 ;enihu.com.			IN	A
@@ -16901,6 +16903,7 @@
 ;ehizo.com.			IN	A
 ;ehidi.com.			IN	A
 ;ehidu.com.			IN	A
+;ehibe.com.			IN	A
 ;ehipi.com.			IN	A
 ;ehipu.com.			IN	A
 ;ehifa.com.			IN	A
@@ -17021,7 +17024,6 @@
 ;eheko.com.			IN	A
 ;ehesa.com.			IN	A
 ;ehesi.com.			IN	A
-;ehese.com.			IN	A
 ;eheti.com.			IN	A
 ;ehete.com.			IN	A
 ;ehenu.com.			IN	A
@@ -17036,6 +17038,7 @@
 ;ehega.com.			IN	A
 ;ehegi.com.			IN	A
 ;ehezo.com.			IN	A
+;ehebi.com.			IN	A
 ;ehebu.com.			IN	A
 ;ehebo.com.			IN	A
 ;ehepi.com.			IN	A
@@ -17135,6 +17138,7 @@
 ;emewu.com.			IN	A
 ;emevu.com.			IN	A
 ;emepi.com.			IN	A
+;emeja.com.			IN	A
 ;emeju.com.			IN	A
 ;emoau.com.			IN	A
 ;emoae.com.			IN	A
@@ -17278,7 +17282,6 @@
 ;ewaki.com.			IN	A
 ;ewafu.com.			IN	A
 ;ewahe.com.			IN	A
-;ewawu.com.			IN	A
 ;ewavu.com.			IN	A
 ;ewaji.com.			IN	A
 ;ewazu.com.			IN	A
@@ -17377,6 +17380,7 @@
 ;ewuzu.com.			IN	A
 ;ewuze.com.			IN	A
 ;ewuzo.com.			IN	A
+;ewuda.com.			IN	A
 ;ewude.com.			IN	A
 ;ewudo.com.			IN	A
 ;ewube.com.			IN	A
@@ -17460,6 +17464,7 @@
 ;ewowu.com.			IN	A
 ;ewovu.com.			IN	A
 ;ewogi.com.			IN	A
+;ewozi.com.			IN	A
 ;ewodu.com.			IN	A
 ;ewobi.com.			IN	A
 ;ewobu.com.			IN	A
@@ -17643,7 +17648,6 @@
 ;eguwe.com.			IN	A
 ;eguwo.com.			IN	A
 ;eguvu.com.			IN	A
-;eguga.com.			IN	A
 ;egugi.com.			IN	A
 ;eguzi.com.			IN	A
 ;eguzu.com.			IN	A
@@ -17689,7 +17693,6 @@
 ;egezu.com.			IN	A
 ;egefi.com.			IN	A
 ;egeja.com.			IN	A
-;egeju.com.			IN	A
 ;egejo.com.			IN	A
 ;egoae.com.			IN	A
 ;egoii.com.			IN	A
@@ -17702,6 +17705,7 @@
 ;egoho.com.			IN	A
 ;egowi.com.			IN	A
 ;egobu.com.			IN	A
+;egopu.com.			IN	A
 ;egope.com.			IN	A
 ;egofo.com.			IN	A
 ;ezaau.com.			IN	A
@@ -17756,7 +17760,6 @@
 ;eziha.com.			IN	A
 ;ezihu.com.			IN	A
 ;eziho.com.			IN	A
-;ezimi.com.			IN	A
 ;eziwu.com.			IN	A
 ;eziwe.com.			IN	A
 ;ezige.com.			IN	A
@@ -17799,7 +17802,6 @@
 ;ejifi.com.			IN	A
 ;ejifo.com.			IN	A
 ;ejiju.com.			IN	A
-;ejijo.com.			IN	A
 ;ezuaa.com.			IN	A
 ;ezuai.com.			IN	A
 ;ezuau.com.			IN	A
@@ -17864,6 +17866,7 @@
 ;ezesu.com.			IN	A
 ;ezeno.com.			IN	A
 ;ezeho.com.			IN	A
+;ezewa.com.			IN	A
 ;ezewi.com.			IN	A
 ;ezewu.com.			IN	A
 ;ezewo.com.			IN	A
@@ -17921,7 +17924,6 @@
 ;edaeo.com.			IN	A
 ;edabo.com.			IN	A
 ;edape.com.			IN	A
-;edajo.com.			IN	A
 ;ediiu.com.			IN	A
 ;ediua.com.			IN	A
 ;ediui.com.			IN	A
@@ -18206,7 +18208,6 @@
 ;epezu.com.			IN	A
 ;epeze.com.			IN	A
 ;epebu.com.			IN	A
-;epefe.com.			IN	A
 ;epefo.com.			IN	A
 ;epeja.com.			IN	A
 ;epeju.com.			IN	A
@@ -18229,6 +18230,7 @@
 ;epooa.com.			IN	A
 ;epooi.com.			IN	A
 ;epoou.com.			IN	A
+;epoti.com.			IN	A
 ;epotu.com.			IN	A
 ;epoho.com.			IN	A
 ;epoyu.com.			IN	A
@@ -18385,6 +18387,7 @@
 ;efajo.com.			IN	A
 ;efiaa.com.			IN	A
 ;efiai.com.			IN	A
+;efiao.com.			IN	A
 ;efiii.com.			IN	A
 ;efiiu.com.			IN	A
 ;efiui.com.			IN	A
@@ -18573,7 +18576,6 @@
 ;ejapu.com.			IN	A
 ;ejafo.com.			IN	A
 ;ejaje.com.			IN	A
-;ejajo.com.			IN	A
 ;ezyia.com.			IN	A
 ;ezyiu.com.			IN	A
 ;ezyua.com.			IN	A
@@ -18732,7 +18734,6 @@
 ;ejogo.com.			IN	A
 ;ejozu.com.			IN	A
 ;ejoze.com.			IN	A
-;ejoda.com.			IN	A
 ;ejodu.com.			IN	A
 ;ejopu.com.			IN	A
 ;ejopo.com.			IN	A
@@ -19053,7 +19054,6 @@
 ;oaoii.com.			IN	A
 ;oaoiu.com.			IN	A
 ;oaoie.com.			IN	A
-;oaoio.com.			IN	A
 ;oaoue.com.			IN	A
 ;oaoeu.com.			IN	A
 ;oaoki.com.			IN	A
@@ -20142,6 +20142,7 @@
 ;ouefu.com.			IN	A
 ;ouehe.com.			IN	A
 ;oueho.com.			IN	A
+;ouema.com.			IN	A
 ;ouemi.com.			IN	A
 ;ouemu.com.			IN	A
 ;ouemo.com.			IN	A
@@ -20267,6 +20268,7 @@
 ;ouhuu.com.			IN	A
 ;ouhue.com.			IN	A
 ;oufua.com.			IN	A
+;oufui.com.			IN	A
 ;oufue.com.			IN	A
 ;ouhea.com.			IN	A
 ;ouheu.com.			IN	A
@@ -20340,7 +20342,6 @@
 ;oubui.com.			IN	A
 ;oubuu.com.			IN	A
 ;oubue.com.			IN	A
-;oubuo.com.			IN	A
 ;oubea.com.			IN	A
 ;oubeu.com.			IN	A
 ;oupaa.com.			IN	A
@@ -20515,6 +20516,7 @@
 ;oeise.com.			IN	A
 ;oeitu.com.			IN	A
 ;oeite.com.			IN	A
+;oeito.com.			IN	A
 ;oeini.com.			IN	A
 ;oeinu.com.			IN	A
 ;oeine.com.			IN	A
@@ -21131,6 +21133,7 @@
 ;ooadi.com.			IN	A
 ;ooadu.com.			IN	A
 ;ooade.com.			IN	A
+;ooabi.com.			IN	A
 ;ooabu.com.			IN	A
 ;ooabe.com.			IN	A
 ;ooapu.com.			IN	A
@@ -21707,6 +21710,7 @@
 ;otaee.com.			IN	A
 ;otaeo.com.			IN	A
 ;otaoe.com.			IN	A
+;otahi.com.			IN	A
 ;otawu.com.			IN	A
 ;otawe.com.			IN	A
 ;otiaa.com.			IN	A
@@ -21804,6 +21808,7 @@
 ;oteoo.com.			IN	A
 ;otehu.com.			IN	A
 ;otehe.com.			IN	A
+;otemu.com.			IN	A
 ;otewi.com.			IN	A
 ;otewu.com.			IN	A
 ;otewo.com.			IN	A
@@ -21927,7 +21932,6 @@
 ;ohavu.com.			IN	A
 ;ohagu.com.			IN	A
 ;ohadu.com.			IN	A
-;ohade.com.			IN	A
 ;ohabu.com.			IN	A
 ;ohapu.com.			IN	A
 ;ohape.com.			IN	A
@@ -21996,6 +22000,7 @@
 ;ohuko.com.			IN	A
 ;ohusu.com.			IN	A
 ;ohuso.com.			IN	A
+;ohuta.com.			IN	A
 ;ohute.com.			IN	A
 ;ohune.com.			IN	A
 ;ohuhi.com.			IN	A
@@ -22354,7 +22359,6 @@
 ;oyuwe.com.			IN	A
 ;oyuvu.com.			IN	A
 ;oyugu.com.			IN	A
-;oyuge.com.			IN	A
 ;oyuza.com.			IN	A
 ;oyuzi.com.			IN	A
 ;oyuji.com.			IN	A
@@ -22635,7 +22639,6 @@
 ;owofe.com.			IN	A
 ;owoju.com.			IN	A
 ;onnei.com.			IN	A
-;onnou.com.			IN	A
 ;onnka.com.			IN	A
 ;onnki.com.			IN	A
 ;onnku.com.			IN	A
@@ -23214,6 +23217,7 @@
 ;odaoe.com.			IN	A
 ;odatu.com.			IN	A
 ;odano.com.			IN	A
+;odafu.com.			IN	A
 ;odayu.com.			IN	A
 ;odawu.com.			IN	A
 ;odafo.com.			IN	A
@@ -23252,7 +23256,6 @@
 ;oduoe.com.			IN	A
 ;oduoo.com.			IN	A
 ;odusu.com.			IN	A
-;oduta.com.			IN	A
 ;oduti.com.			IN	A
 ;odutu.com.			IN	A
 ;oduto.com.			IN	A
@@ -23559,7 +23562,6 @@
 ;opehi.com.			IN	A
 ;opehu.com.			IN	A
 ;opefu.com.			IN	A
-;opeme.com.			IN	A
 ;opeyu.com.			IN	A
 ;opewi.com.			IN	A
 ;opewu.com.			IN	A
@@ -23807,7 +23809,6 @@
 ;ofetu.com.			IN	A
 ;ofenu.com.			IN	A
 ;ofene.com.			IN	A
-;ofeha.com.			IN	A
 ;ofehu.com.			IN	A
 ;ofefu.com.			IN	A
 ;ofeho.com.			IN	A
@@ -23934,7 +23935,6 @@
 ;ojaku.com.			IN	A
 ;ojasu.com.			IN	A
 ;ojatu.com.			IN	A
-;ojate.com.			IN	A
 ;ojahi.com.			IN	A
 ;ojahu.com.			IN	A
 ;ojafu.com.			IN	A
@@ -24265,7 +24265,6 @@
 ;kaweu.com.			IN	A
 ;kageu.com.			IN	A
 ;kabea.com.			IN	A
-;kapue.com.			IN	A
 ;kakyi.com.			IN	A
 ;kahyu.com.			IN	A
 ;kahye.com.			IN	A
@@ -24290,6 +24289,7 @@
 ;kiaoi.com.			IN	A
 ;kiaoe.com.			IN	A
 ;kiahe.com.			IN	A
+;kiagu.com.			IN	A
 ;kiadu.com.			IN	A
 ;kiape.com.			IN	A
 ;kiaje.com.			IN	A
@@ -24392,6 +24392,7 @@
 ;kiweu.com.			IN	A
 ;kiwoe.com.			IN	A
 ;kigau.com.			IN	A
+;kigii.com.			IN	A
 ;kigiu.com.			IN	A
 ;kiguo.com.			IN	A
 ;kigea.com.			IN	A
@@ -24441,6 +24442,7 @@
 ;kuaoe.com.			IN	A
 ;kuavu.com.			IN	A
 ;kuajo.com.			IN	A
+;kuiau.com.			IN	A
 ;kuiae.com.			IN	A
 ;kuiia.com.			IN	A
 ;kuiie.com.			IN	A
@@ -24580,6 +24582,7 @@
 ;kukye.com.			IN	A
 ;kusyi.com.			IN	A
 ;kusye.com.			IN	A
+;kutyi.com.			IN	A
 ;kutye.com.			IN	A
 ;kuhya.com.			IN	A
 ;kuhyi.com.			IN	A
@@ -24682,6 +24685,7 @@
 ;keuvu.com.			IN	A
 ;keuga.com.			IN	A
 ;keugi.com.			IN	A
+;keugu.com.			IN	A
 ;keuza.com.			IN	A
 ;keuzu.com.			IN	A
 ;keuzo.com.			IN	A
@@ -24772,7 +24776,6 @@
 ;kekyi.com.			IN	A
 ;kekyu.com.			IN	A
 ;kesyu.com.			IN	A
-;ketyu.com.			IN	A
 ;kehyi.com.			IN	A
 ;kehyu.com.			IN	A
 ;kehye.com.			IN	A
@@ -25049,7 +25052,6 @@
 ;siajo.com.			IN	A
 ;siiae.com.			IN	A
 ;siiao.com.			IN	A
-;siiiu.com.			IN	A
 ;siiua.com.			IN	A
 ;siiui.com.			IN	A
 ;siiea.com.			IN	A
@@ -25114,10 +25116,8 @@
 ;sieoe.com.			IN	A
 ;siehi.com.			IN	A
 ;siewu.com.			IN	A
-;sieji.com.			IN	A
 ;siepu.com.			IN	A
 ;sieju.com.			IN	A
-;sieje.com.			IN	A
 ;sioaa.com.			IN	A
 ;sioau.com.			IN	A
 ;sioii.com.			IN	A
@@ -25336,7 +25336,6 @@
 ;seuku.com.			IN	A
 ;seuke.com.			IN	A
 ;seunu.com.			IN	A
-;seuha.com.			IN	A
 ;seuhi.com.			IN	A
 ;seuhu.com.			IN	A
 ;seufu.com.			IN	A
@@ -25364,7 +25363,6 @@
 ;sekuu.com.			IN	A
 ;sesiu.com.			IN	A
 ;seteu.com.			IN	A
-;sehae.com.			IN	A
 ;sehiu.com.			IN	A
 ;sefuu.com.			IN	A
 ;sefuo.com.			IN	A
@@ -25507,6 +25505,7 @@
 ;sotyu.com.			IN	A
 ;soryi.com.			IN	A
 ;sogyi.com.			IN	A
+;sogye.com.			IN	A
 ;sozya.com.			IN	A
 ;sojau.com.			IN	A
 ;sozyi.com.			IN	A
@@ -25537,7 +25536,6 @@
 ;taiua.com.			IN	A
 ;taiuo.com.			IN	A
 ;taieu.com.			IN	A
-;taieo.com.			IN	A
 ;tauiu.com.			IN	A
 ;tauua.com.			IN	A
 ;tauui.com.			IN	A
@@ -25584,6 +25582,7 @@
 ;taooe.com.			IN	A
 ;taoje.com.			IN	A
 ;tasau.com.			IN	A
+;tahue.com.			IN	A
 ;tafue.com.			IN	A
 ;tayui.com.			IN	A
 ;tayuo.com.			IN	A
@@ -25597,6 +25596,7 @@
 ;tavuo.com.			IN	A
 ;taziu.com.			IN	A
 ;tazeu.com.			IN	A
+;takyi.com.			IN	A
 ;tasyi.com.			IN	A
 ;taryi.com.			IN	A
 ;tafau.com.			IN	A
@@ -25885,6 +25885,7 @@
 ;tuieu.com.			IN	A
 ;tuieo.com.			IN	A
 ;tuioa.com.			IN	A
+;tuiwi.com.			IN	A
 ;tuuai.com.			IN	A
 ;tuuau.com.			IN	A
 ;tuuae.com.			IN	A
@@ -26105,7 +26106,6 @@
 ;teujo.com.			IN	A
 ;teeuo.com.			IN	A
 ;teeoa.com.			IN	A
-;teeoi.com.			IN	A
 ;teoaa.com.			IN	A
 ;teoau.com.			IN	A
 ;teoao.com.			IN	A
@@ -26391,7 +26391,6 @@
 ;naeoo.com.			IN	A
 ;naesi.com.			IN	A
 ;naeso.com.			IN	A
-;naetu.com.			IN	A
 ;naehi.com.			IN	A
 ;naefu.com.			IN	A
 ;naeho.com.			IN	A
@@ -26408,7 +26407,6 @@
 ;naouu.com.			IN	A
 ;naouo.com.			IN	A
 ;naoea.com.			IN	A
-;naoee.com.			IN	A
 ;naoeo.com.			IN	A
 ;naoya.com.			IN	A
 ;naovu.com.			IN	A
@@ -26537,6 +26535,7 @@
 ;nihia.com.			IN	A
 ;nihiu.com.			IN	A
 ;nihie.com.			IN	A
+;nihio.com.			IN	A
 ;nifua.com.			IN	A
 ;nifui.com.			IN	A
 ;nifuu.com.			IN	A
@@ -26674,7 +26673,6 @@
 ;nuuia.com.			IN	A
 ;nuuie.com.			IN	A
 ;nuuio.com.			IN	A
-;nuuua.com.			IN	A
 ;nuuui.com.			IN	A
 ;nuuue.com.			IN	A
 ;nuuuo.com.			IN	A
@@ -26872,6 +26870,7 @@
 ;neeoa.com.			IN	A
 ;neeoi.com.			IN	A
 ;neepu.com.			IN	A
+;neouu.com.			IN	A
 ;nekiu.com.			IN	A
 ;nekuu.com.			IN	A
 ;nekue.com.			IN	A
@@ -27050,6 +27049,7 @@
 ;nooua.com.			IN	A
 ;nooue.com.			IN	A
 ;nooeu.com.			IN	A
+;noopi.com.			IN	A
 ;nokui.com.			IN	A
 ;nosuu.com.			IN	A
 ;nosuo.com.			IN	A
@@ -27174,7 +27174,6 @@
 ;haepo.com.			IN	A
 ;haefe.com.			IN	A
 ;haefo.com.			IN	A
-;haouo.com.			IN	A
 ;hahue.com.			IN	A
 ;hayuo.com.			IN	A
 ;hawiu.com.			IN	A
@@ -27477,6 +27476,8 @@
 ;huuhi.com.			IN	A
 ;huuhe.com.			IN	A
 ;huuho.com.			IN	A
+;huumu.com.			IN	A
+;huuwa.com.			IN	A
 ;huuwu.com.			IN	A
 ;huubu.com.			IN	A
 ;huufo.com.			IN	A
@@ -27554,7 +27555,6 @@
 ;huzau.com.			IN	A
 ;huzae.com.			IN	A
 ;hujii.com.			IN	A
-;huzue.com.			IN	A
 ;huzoa.com.			IN	A
 ;hudoa.com.			IN	A
 ;hudoe.com.			IN	A
@@ -27690,7 +27690,6 @@
 ;fuigu.com.			IN	A
 ;fuige.com.			IN	A
 ;fuizi.com.			IN	A
-;fuize.com.			IN	A
 ;fuizo.com.			IN	A
 ;fuidi.com.			IN	A
 ;fuibo.com.			IN	A
@@ -27728,7 +27727,6 @@
 ;fuuwo.com.			IN	A
 ;fuunn.com.			IN	A
 ;fuuvu.com.			IN	A
-;fuugu.com.			IN	A
 ;fuube.com.			IN	A
 ;fuupu.com.			IN	A
 ;fuupe.com.			IN	A
@@ -27777,7 +27775,6 @@
 ;fuewo.com.			IN	A
 ;fuevu.com.			IN	A
 ;fuezu.com.			IN	A
-;fueba.com.			IN	A
 ;fuebu.com.			IN	A
 ;fuepi.com.			IN	A
 ;fuepu.com.			IN	A
@@ -27830,7 +27827,6 @@
 ;fuoji.com.			IN	A
 ;fuodi.com.			IN	A
 ;fuodu.com.			IN	A
-;fuode.com.			IN	A
 ;fuoba.com.			IN	A
 ;fuobu.com.			IN	A
 ;fuobe.com.			IN	A
@@ -28142,6 +28138,7 @@
 ;hefoa.com.			IN	A
 ;hefoi.com.			IN	A
 ;hefoe.com.			IN	A
+;hegye.com.			IN	A
 ;hegyo.com.			IN	A
 ;hezyi.com.			IN	A
 ;hejua.com.			IN	A
@@ -28270,6 +28267,7 @@
 ;hogiu.com.			IN	A
 ;hogeu.com.			IN	A
 ;hogoi.com.			IN	A
+;hogoe.com.			IN	A
 ;hozau.com.			IN	A
 ;hoziu.com.			IN	A
 ;hozua.com.			IN	A
@@ -28425,6 +28423,7 @@
 ;muaae.com.			IN	A
 ;muaio.com.			IN	A
 ;muaua.com.			IN	A
+;muaui.com.			IN	A
 ;muaue.com.			IN	A
 ;muauo.com.			IN	A
 ;muaea.com.			IN	A
@@ -28676,7 +28675,6 @@
 ;meuoa.com.			IN	A
 ;meuou.com.			IN	A
 ;meuoe.com.			IN	A
-;meuoo.com.			IN	A
 ;meuha.com.			IN	A
 ;meuhu.com.			IN	A
 ;meuhe.com.			IN	A
@@ -28717,7 +28715,6 @@
 ;mehuu.com.			IN	A
 ;mefua.com.			IN	A
 ;mefuo.com.			IN	A
-;meheu.com.			IN	A
 ;meyae.com.			IN	A
 ;meyoe.com.			IN	A
 ;mewau.com.			IN	A
@@ -28778,7 +28775,6 @@
 ;moiuo.com.			IN	A
 ;moihi.com.			IN	A
 ;moifu.com.			IN	A
-;moihe.com.			IN	A
 ;moiho.com.			IN	A
 ;moimu.com.			IN	A
 ;moiwu.com.			IN	A
@@ -28808,11 +28804,11 @@
 ;mooua.com.			IN	A
 ;mooui.com.			IN	A
 ;mooea.com.			IN	A
+;mooje.com.			IN	A
 ;mosui.com.			IN	A
 ;moseu.com.			IN	A
 ;mofue.com.			IN	A
 ;moheu.com.			IN	A
-;momui.com.			IN	A
 ;mowue.com.			IN	A
 ;moweu.com.			IN	A
 ;mowoi.com.			IN	A
@@ -28929,6 +28925,7 @@
 ;yaenu.com.			IN	A
 ;yaehi.com.			IN	A
 ;yaemu.com.			IN	A
+;yaeme.com.			IN	A
 ;yaeya.com.			IN	A
 ;yaeyu.com.			IN	A
 ;yaewi.com.			IN	A
@@ -29086,7 +29083,6 @@
 ;yuuiu.com.			IN	A
 ;yuuea.com.			IN	A
 ;yuueu.com.			IN	A
-;yuuee.com.			IN	A
 ;yuueo.com.			IN	A
 ;yuuoa.com.			IN	A
 ;yuuoe.com.			IN	A
@@ -29134,6 +29130,7 @@
 ;yuopo.com.			IN	A
 ;yuofi.com.			IN	A
 ;yuofe.com.			IN	A
+;yuofo.com.			IN	A
 ;yuoju.com.			IN	A
 ;yuoje.com.			IN	A
 ;yuojo.com.			IN	A
@@ -29198,6 +29195,7 @@
 ;yufoi.com.			IN	A
 ;yugye.com.			IN	A
 ;yujau.com.			IN	A
+;yuzyi.com.			IN	A
 ;yuzyu.com.			IN	A
 ;yujua.com.			IN	A
 ;yujuo.com.			IN	A
@@ -29240,6 +29238,7 @@
 ;yoawo.com.			IN	A
 ;yoavu.com.			IN	A
 ;yoagu.com.			IN	A
+;yoaza.com.			IN	A
 ;yoazi.com.			IN	A
 ;yoaji.com.			IN	A
 ;yoazu.com.			IN	A
@@ -29309,7 +29308,6 @@
 ;yoeeo.com.			IN	A
 ;yoeoa.com.			IN	A
 ;yoeou.com.			IN	A
-;yoeku.com.			IN	A
 ;yoeso.com.			IN	A
 ;yoeti.com.			IN	A
 ;yoetu.com.			IN	A
@@ -29638,6 +29636,7 @@
 ;wiisa.com.			IN	A
 ;wiitu.com.			IN	A
 ;wiihe.com.			IN	A
+;wiiwu.com.			IN	A
 ;wiivu.com.			IN	A
 ;wiipi.com.			IN	A
 ;wiije.com.			IN	A
@@ -30100,7 +30099,6 @@
 ;wuowi.com.			IN	A
 ;wuowu.com.			IN	A
 ;wuowe.com.			IN	A
-;wuowo.com.			IN	A
 ;wuonn.com.			IN	A
 ;wuovu.com.			IN	A
 ;wuoga.com.			IN	A
@@ -30399,7 +30397,6 @@
 ;weyuo.com.			IN	A
 ;weyoa.com.			IN	A
 ;weyoi.com.			IN	A
-;weyoe.com.			IN	A
 ;wewau.com.			IN	A
 ;wewiu.com.			IN	A
 ;wewua.com.			IN	A
@@ -30444,7 +30441,6 @@
 ;wezyo.com.			IN	A
 ;wejoa.com.			IN	A
 ;wepyi.com.			IN	A
-;wepye.com.			IN	A
 ;woaiu.com.			IN	A
 ;woaua.com.			IN	A
 ;woaui.com.			IN	A
@@ -30597,7 +30593,6 @@
 ;woefa.com.			IN	A
 ;woefo.com.			IN	A
 ;woeja.com.			IN	A
-;woeju.com.			IN	A
 ;woeje.com.			IN	A
 ;woejo.com.			IN	A
 ;wooue.com.			IN	A
@@ -30613,6 +30608,7 @@
 ;wotua.com.			IN	A
 ;woteu.com.			IN	A
 ;wotoa.com.			IN	A
+;wonoi.com.			IN	A
 ;wohue.com.			IN	A
 ;wofui.com.			IN	A
 ;wofuu.com.			IN	A
@@ -30687,6 +30683,7 @@
 ;wodyu.com.			IN	A
 ;wobyi.com.			IN	A
 ;wobyu.com.			IN	A
+;wobye.com.			IN	A
 ;wopya.com.			IN	A
 ;wopyi.com.			IN	A
 ;wopyu.com.			IN	A
@@ -30982,6 +30979,7 @@
 ;nnowu.com.			IN	A
 ;nnowe.com.			IN	A
 ;nnowo.com.			IN	A
+;nnovu.com.			IN	A
 ;nnogi.com.			IN	A
 ;nnogu.com.			IN	A
 ;nnoge.com.			IN	A
@@ -31195,7 +31193,6 @@
 ;nnbuo.com.			IN	A
 ;nnbea.com.			IN	A
 ;nnbeu.com.			IN	A
-;nnbee.com.			IN	A
 ;nnbeo.com.			IN	A
 ;nnboa.com.			IN	A
 ;nnboi.com.			IN	A
@@ -31417,7 +31414,6 @@
 ;vuuie.com.			IN	A
 ;vuuua.com.			IN	A
 ;vuuui.com.			IN	A
-;vuuue.com.			IN	A
 ;vuuea.com.			IN	A
 ;vuuei.com.			IN	A
 ;vuueu.com.			IN	A
@@ -32093,6 +32089,7 @@
 ;gikeu.com.			IN	A
 ;gikoa.com.			IN	A
 ;gikoe.com.			IN	A
+;gisii.com.			IN	A
 ;gisuu.com.			IN	A
 ;gisoe.com.			IN	A
 ;gihai.com.			IN	A
@@ -32319,7 +32316,6 @@
 ;gumui.com.			IN	A
 ;gumue.com.			IN	A
 ;gumeu.com.			IN	A
-;gumoa.com.			IN	A
 ;guyua.com.			IN	A
 ;guyoi.com.			IN	A
 ;guwau.com.			IN	A
@@ -32441,6 +32437,7 @@
 ;geioi.com.			IN	A
 ;geioe.com.			IN	A
 ;geivu.com.			IN	A
+;geija.com.			IN	A
 ;geije.com.			IN	A
 ;geuai.com.			IN	A
 ;geuau.com.			IN	A
@@ -32483,7 +32480,6 @@
 ;geuwo.com.			IN	A
 ;geunn.com.			IN	A
 ;geuvu.com.			IN	A
-;geuga.com.			IN	A
 ;geugi.com.			IN	A
 ;geugu.com.			IN	A
 ;geuzi.com.			IN	A
@@ -32509,7 +32505,6 @@
 ;geeiu.com.			IN	A
 ;geeua.com.			IN	A
 ;geeue.com.			IN	A
-;geesi.com.			IN	A
 ;geeso.com.			IN	A
 ;geoau.com.			IN	A
 ;geoiu.com.			IN	A
@@ -32629,7 +32624,9 @@
 ;goaju.com.			IN	A
 ;goiau.com.			IN	A
 ;goiae.com.			IN	A
+;goiao.com.			IN	A
 ;goiiu.com.			IN	A
+;goiua.com.			IN	A
 ;goieu.com.			IN	A
 ;goioa.com.			IN	A
 ;goifu.com.			IN	A
@@ -32664,6 +32661,8 @@
 ;goejo.com.			IN	A
 ;gooua.com.			IN	A
 ;gooue.com.			IN	A
+;goohu.com.			IN	A
+;gokua.com.			IN	A
 ;gokeu.com.			IN	A
 ;gosae.com.			IN	A
 ;goseu.com.			IN	A
@@ -32812,7 +32811,6 @@
 ;zaeyo.com.			IN	A
 ;zaewi.com.			IN	A
 ;zaewu.com.			IN	A
-;zaewe.com.			IN	A
 ;zaewo.com.			IN	A
 ;zaenn.com.			IN	A
 ;zaevu.com.			IN	A
@@ -32855,7 +32853,6 @@
 ;zatue.com.			IN	A
 ;zatoe.com.			IN	A
 ;zanau.com.			IN	A
-;zahii.com.			IN	A
 ;zafue.com.			IN	A
 ;zaheu.com.			IN	A
 ;zamue.com.			IN	A
@@ -33124,7 +33121,6 @@
 ;zifui.com.			IN	A
 ;zifue.com.			IN	A
 ;zifuo.com.			IN	A
-;ziheo.com.			IN	A
 ;zihoa.com.			IN	A
 ;zihoe.com.			IN	A
 ;zimui.com.			IN	A
@@ -33142,6 +33138,7 @@
 ;zivui.com.			IN	A
 ;zivuo.com.			IN	A
 ;zigau.com.			IN	A
+;zigae.com.			IN	A
 ;zigiu.com.			IN	A
 ;zigeu.com.			IN	A
 ;zizie.com.			IN	A
@@ -33346,7 +33343,6 @@
 ;jisye.com.			IN	A
 ;jityi.com.			IN	A
 ;jityu.com.			IN	A
-;jityo.com.			IN	A
 ;jihya.com.			IN	A
 ;jihyi.com.			IN	A
 ;jirya.com.			IN	A
@@ -33574,6 +33570,7 @@
 ;zuyoi.com.			IN	A
 ;zuyoe.com.			IN	A
 ;zuwaa.com.			IN	A
+;zuwau.com.			IN	A
 ;zuwae.com.			IN	A
 ;zuwao.com.			IN	A
 ;zuwiu.com.			IN	A
@@ -33970,7 +33967,6 @@
 ;zoiou.com.			IN	A
 ;zoioe.com.			IN	A
 ;zoisu.com.			IN	A
-;zoitu.com.			IN	A
 ;zoinu.com.			IN	A
 ;zoihi.com.			IN	A
 ;zoihu.com.			IN	A
@@ -34180,10 +34176,10 @@
 ;daesu.com.			IN	A
 ;daewe.com.			IN	A
 ;daevu.com.			IN	A
+;daepu.com.			IN	A
 ;daepe.com.			IN	A
 ;daefe.com.			IN	A
 ;daefo.com.			IN	A
-;daoje.com.			IN	A
 ;dasui.com.			IN	A
 ;dahiu.com.			IN	A
 ;dafue.com.			IN	A
@@ -34298,6 +34294,7 @@
 ;dikeu.com.			IN	A
 ;dikoa.com.			IN	A
 ;ditiu.com.			IN	A
+;dinue.com.			IN	A
 ;dinoe.com.			IN	A
 ;dihio.com.			IN	A
 ;dihuu.com.			IN	A
@@ -34688,7 +34685,6 @@
 ;deguu.com.			IN	A
 ;dejii.com.			IN	A
 ;dezua.com.			IN	A
-;dedii.com.			IN	A
 ;dedue.com.			IN	A
 ;dekyu.com.			IN	A
 ;detyi.com.			IN	A
@@ -34815,6 +34811,7 @@
 ;doepo.com.			IN	A
 ;doefa.com.			IN	A
 ;doeje.com.			IN	A
+;dooau.com.			IN	A
 ;dooua.com.			IN	A
 ;dooea.com.			IN	A
 ;dooeu.com.			IN	A
@@ -34862,7 +34859,6 @@
 ;dozyo.com.			IN	A
 ;dodyi.com.			IN	A
 ;dodyu.com.			IN	A
-;dobya.com.			IN	A
 ;baaiu.com.			IN	A
 ;baauu.com.			IN	A
 ;baaue.com.			IN	A
@@ -34943,6 +34939,7 @@
 ;biaei.com.			IN	A
 ;biaeu.com.			IN	A
 ;biaeo.com.			IN	A
+;biafu.com.			IN	A
 ;biawo.com.			IN	A
 ;biapu.com.			IN	A
 ;biaju.com.			IN	A
@@ -34953,6 +34950,7 @@
 ;biiuo.com.			IN	A
 ;biiea.com.			IN	A
 ;biiei.com.			IN	A
+;biieu.com.			IN	A
 ;biieo.com.			IN	A
 ;biioa.com.			IN	A
 ;biioi.com.			IN	A
@@ -34962,7 +34960,6 @@
 ;biivu.com.			IN	A
 ;biigu.com.			IN	A
 ;biipu.com.			IN	A
-;biifa.com.			IN	A
 ;biifi.com.			IN	A
 ;biijo.com.			IN	A
 ;biuau.com.			IN	A
@@ -34973,6 +34970,7 @@
 ;biuue.com.			IN	A
 ;biuuo.com.			IN	A
 ;biueu.com.			IN	A
+;biueo.com.			IN	A
 ;biuoi.com.			IN	A
 ;biuoe.com.			IN	A
 ;biunu.com.			IN	A
@@ -35004,6 +35002,7 @@
 ;bieoi.com.			IN	A
 ;biewi.com.			IN	A
 ;biewe.com.			IN	A
+;biewo.com.			IN	A
 ;bievu.com.			IN	A
 ;bieja.com.			IN	A
 ;bitue.com.			IN	A
@@ -35193,7 +35192,6 @@
 ;buejo.com.			IN	A
 ;buoau.com.			IN	A
 ;buoae.com.			IN	A
-;buoao.com.			IN	A
 ;buoia.com.			IN	A
 ;buoiu.com.			IN	A
 ;buoie.com.			IN	A
@@ -35242,7 +35240,6 @@
 ;buojo.com.			IN	A
 ;bukiu.com.			IN	A
 ;bunui.com.			IN	A
-;bunuu.com.			IN	A
 ;buneu.com.			IN	A
 ;buhae.com.			IN	A
 ;buhiu.com.			IN	A
@@ -35323,7 +35320,6 @@
 ;beapu.com.			IN	A
 ;beiae.com.			IN	A
 ;beiua.com.			IN	A
-;beiui.com.			IN	A
 ;beiea.com.			IN	A
 ;beioi.com.			IN	A
 ;beuaa.com.			IN	A
@@ -35368,7 +35364,6 @@
 ;beuje.com.			IN	A
 ;beujo.com.			IN	A
 ;beeiu.com.			IN	A
-;beeou.com.			IN	A
 ;beeyu.com.			IN	A
 ;beoau.com.			IN	A
 ;beoae.com.			IN	A
@@ -35483,6 +35478,7 @@
 ;boifu.com.			IN	A
 ;boihe.com.			IN	A
 ;boiwu.com.			IN	A
+;boiwo.com.			IN	A
 ;boivu.com.			IN	A
 ;boigu.com.			IN	A
 ;boife.com.			IN	A
@@ -35531,9 +35527,9 @@
 ;booiu.com.			IN	A
 ;booeo.com.			IN	A
 ;bohiu.com.			IN	A
-;bomau.com.			IN	A
 ;bomuo.com.			IN	A
 ;bomeu.com.			IN	A
+;bowua.com.			IN	A
 ;bowuo.com.			IN	A
 ;boweu.com.			IN	A
 ;bowoi.com.			IN	A
@@ -35543,8 +35539,10 @@
 ;bovuu.com.			IN	A
 ;bogiu.com.			IN	A
 ;bogeu.com.			IN	A
+;boziu.com.			IN	A
 ;bozeu.com.			IN	A
 ;bopua.com.			IN	A
+;bopue.com.			IN	A
 ;bopoi.com.			IN	A
 ;bokyi.com.			IN	A
 ;bohyi.com.			IN	A
@@ -36153,6 +36151,7 @@
 ;puoka.com.			IN	A
 ;puoku.com.			IN	A
 ;puotu.com.			IN	A
+;puote.com.			IN	A
 ;puona.com.			IN	A
 ;puoni.com.			IN	A
 ;puohi.com.			IN	A
@@ -36513,6 +36512,7 @@
 ;pevue.com.			IN	A
 ;pevuo.com.			IN	A
 ;pegiu.com.			IN	A
+;pegei.com.			IN	A
 ;pegeu.com.			IN	A
 ;pezau.com.			IN	A
 ;pezae.com.			IN	A
@@ -36598,6 +36598,7 @@
 ;poaoe.com.			IN	A
 ;poaku.com.			IN	A
 ;poasu.com.			IN	A
+;poase.com.			IN	A
 ;poanu.com.			IN	A
 ;poaha.com.			IN	A
 ;poafu.com.			IN	A
@@ -36679,7 +36680,6 @@
 ;poeeo.com.			IN	A
 ;poeoa.com.			IN	A
 ;poeoi.com.			IN	A
-;poeou.com.			IN	A
 ;poeoe.com.			IN	A
 ;poeku.com.			IN	A
 ;poesu.com.			IN	A
@@ -37058,7 +37058,6 @@
 ;syiwo.com.			IN	A
 ;syivu.com.			IN	A
 ;syiga.com.			IN	A
-;syigo.com.			IN	A
 ;syiji.com.			IN	A
 ;syibu.com.			IN	A
 ;syibe.com.			IN	A
@@ -37117,7 +37116,6 @@
 ;syeiu.com.			IN	A
 ;syeio.com.			IN	A
 ;syeua.com.			IN	A
-;syeui.com.			IN	A
 ;syeuu.com.			IN	A
 ;syeue.com.			IN	A
 ;syeuo.com.			IN	A
@@ -37239,6 +37237,7 @@
 ;tyafo.com.			IN	A
 ;tyaju.com.			IN	A
 ;tyajo.com.			IN	A
+;chaho.com.			IN	A
 ;chagu.com.			IN	A
 ;tyiaa.com.			IN	A
 ;tyiai.com.			IN	A
@@ -38099,6 +38098,7 @@
 ;ryipi.com.			IN	A
 ;ryipu.com.			IN	A
 ;ryipe.com.			IN	A
+;ryipo.com.			IN	A
 ;ryifi.com.			IN	A
 ;ryife.com.			IN	A
 ;ryifo.com.			IN	A
@@ -38127,7 +38127,6 @@
 ;ryuhu.com.			IN	A
 ;ryuhe.com.			IN	A
 ;ryumo.com.			IN	A
-;ryuyo.com.			IN	A
 ;ryuwi.com.			IN	A
 ;ryuwu.com.			IN	A
 ;ryuwe.com.			IN	A
@@ -38137,6 +38136,7 @@
 ;ryuze.com.			IN	A
 ;ryudi.com.			IN	A
 ;ryudu.com.			IN	A
+;ryude.com.			IN	A
 ;ryupi.com.			IN	A
 ;ryupu.com.			IN	A
 ;ryupe.com.			IN	A
@@ -38226,6 +38226,7 @@
 ;ryonu.com.			IN	A
 ;ryohe.com.			IN	A
 ;ryomu.com.			IN	A
+;ryome.com.			IN	A
 ;ryowi.com.			IN	A
 ;ryowu.com.			IN	A
 ;ryowe.com.			IN	A
@@ -38521,7 +38522,6 @@
 ;fiieu.com.			IN	A
 ;fiieo.com.			IN	A
 ;fiioa.com.			IN	A
-;fiioi.com.			IN	A
 ;fiiou.com.			IN	A
 ;fiioe.com.			IN	A
 ;fiisu.com.			IN	A
@@ -38713,6 +38713,7 @@
 ;fivui.com.			IN	A
 ;fivuu.com.			IN	A
 ;figau.com.			IN	A
+;figao.com.			IN	A
 ;figiu.com.			IN	A
 ;figei.com.			IN	A
 ;fizau.com.			IN	A
@@ -38808,7 +38809,6 @@
 ;feadu.com.			IN	A
 ;feabi.com.			IN	A
 ;feabu.com.			IN	A
-;feabe.com.			IN	A
 ;feape.com.			IN	A
 ;feafo.com.			IN	A
 ;feaju.com.			IN	A
@@ -38992,6 +38992,7 @@
 ;fegue.com.			IN	A
 ;fegei.com.			IN	A
 ;fegeu.com.			IN	A
+;fegoe.com.			IN	A
 ;fezao.com.			IN	A
 ;fezii.com.			IN	A
 ;feziu.com.			IN	A
@@ -38999,6 +39000,7 @@
 ;fezui.com.			IN	A
 ;fezuu.com.			IN	A
 ;fezuo.com.			IN	A
+;fezeu.com.			IN	A
 ;fezoi.com.			IN	A
 ;fedoe.com.			IN	A
 ;febae.com.			IN	A
@@ -39112,6 +39114,7 @@
 ;foafe.com.			IN	A
 ;foajo.com.			IN	A
 ;foiai.com.			IN	A
+;foiau.com.			IN	A
 ;foiae.com.			IN	A
 ;foiao.com.			IN	A
 ;foiia.com.			IN	A
@@ -39356,7 +39359,6 @@
 ;gyaee.com.			IN	A
 ;gyaeo.com.			IN	A
 ;gyaoa.com.			IN	A
-;gyaou.com.			IN	A
 ;gyaoe.com.			IN	A
 ;gyaoo.com.			IN	A
 ;gyake.com.			IN	A
@@ -39366,6 +39368,7 @@
 ;gyahu.com.			IN	A
 ;gyafu.com.			IN	A
 ;gyahe.com.			IN	A
+;gyaho.com.			IN	A
 ;gyama.com.			IN	A
 ;gyayu.com.			IN	A
 ;gyawi.com.			IN	A
@@ -39703,6 +39706,7 @@
 ;jaaoe.com.			IN	A
 ;jaatu.com.			IN	A
 ;jaahu.com.			IN	A
+;jaafu.com.			IN	A
 ;jaawu.com.			IN	A
 ;jaawe.com.			IN	A
 ;jaapu.com.			IN	A
@@ -39963,7 +39967,6 @@
 ;zyuso.com.			IN	A
 ;zyuta.com.			IN	A
 ;zyuto.com.			IN	A
-;zyuni.com.			IN	A
 ;zyunu.com.			IN	A
 ;zyuha.com.			IN	A
 ;zyuhi.com.			IN	A
@@ -40179,10 +40182,12 @@
 ;jukiu.com.			IN	A
 ;jukoi.com.			IN	A
 ;jusau.com.			IN	A
+;jusae.com.			IN	A
 ;jutau.com.			IN	A
 ;jutae.com.			IN	A
 ;jutiu.com.			IN	A
 ;jutua.com.			IN	A
+;jutue.com.			IN	A
 ;juhio.com.			IN	A
 ;jufui.com.			IN	A
 ;jufuo.com.			IN	A
@@ -40368,6 +40373,7 @@
 ;jeazu.com.			IN	A
 ;jeabu.com.			IN	A
 ;jeabe.com.			IN	A
+;jeapi.com.			IN	A
 ;jeafi.com.			IN	A
 ;jeafe.com.			IN	A
 ;jeaje.com.			IN	A
@@ -40673,7 +40679,6 @@
 ;zyoeo.com.			IN	A
 ;zyooa.com.			IN	A
 ;zyooi.com.			IN	A
-;zyoou.com.			IN	A
 ;zyoku.com.			IN	A
 ;zyosi.com.			IN	A
 ;zyosu.com.			IN	A
@@ -40850,6 +40855,7 @@
 ;jopue.com.			IN	A
 ;jopuo.com.			IN	A
 ;jopeu.com.			IN	A
+;jopoa.com.			IN	A
 ;jopou.com.			IN	A
 ;jokyi.com.			IN	A
 ;jotyi.com.			IN	A
@@ -40958,6 +40964,7 @@
 ;dyitu.com.			IN	A
 ;dyite.com.			IN	A
 ;dyinu.com.			IN	A
+;dyino.com.			IN	A
 ;dyiha.com.			IN	A
 ;dyihi.com.			IN	A
 ;dyihu.com.			IN	A
@@ -40973,6 +40980,7 @@
 ;dyiga.com.			IN	A
 ;dyigi.com.			IN	A
 ;dyigu.com.			IN	A
+;dyigo.com.			IN	A
 ;dyiza.com.			IN	A
 ;dyizi.com.			IN	A
 ;dyize.com.			IN	A
@@ -41318,6 +41326,7 @@
 ;byubu.com.			IN	A
 ;byubo.com.			IN	A
 ;byupa.com.			IN	A
+;byupu.com.			IN	A
 ;byupe.com.			IN	A
 ;byupo.com.			IN	A
 ;byufa.com.			IN	A
@@ -41418,7 +41427,6 @@
 ;pyauo.com.			IN	A
 ;pyaea.com.			IN	A
 ;pyaei.com.			IN	A
-;pyaeu.com.			IN	A
 ;pyaee.com.			IN	A
 ;pyaeo.com.			IN	A
 ;pyaoa.com.			IN	A
